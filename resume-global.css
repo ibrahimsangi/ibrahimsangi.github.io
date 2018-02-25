@@ -1,0 +1,144 @@
+﻿/* http://meyerweb.com/eric/tools/css/reset/ 
+    v2.0 | 20110126
+    License: none (public domain)
+*/
+
+.opr-resume div,
+.opr-resume span,
+.opr-resume h1,
+.opr-resume h2,
+.opr-resume p,
+.opr-resume address
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+   font-style:normal !important;
+}
+ul.opr-resume,
+ol.opr-resume, ul.opr-section-item-list
+{
+    margin:0 !important;
+    padding:0 !important;
+}
+.opr-resume table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* global */
+h2
+{
+	display:block;
+    font-weight:normal;
+}
+th 
+{
+    text-align:left;
+}
+.opr-section
+{
+	font-size:1.0em;
+	margin-bottom:30px;
+	line-height:1.3em;
+	list-style:none !important;
+}
+.opr-section-item
+{
+    list-style:none !important;
+}
+.opr-resume
+{
+    margin:0; padding:0;
+}
+.opr-section p,
+.opr-section address,
+.opr-section ul,
+.opr-section table
+{
+	margin-bottom:11px;
+}
+.opr-section table
+{
+	width:100%;
+}
+.opr-item-tabled th
+{
+	text-align:left;
+	font-weight:normal;
+	width:50%;
+	background-color:transparent !important;
+	padding:0px 0 5px 0;
+}
+.opr-item-tabled td
+{
+	width:25%;
+	padding:0px 0 5px 0;
+}
+.opr-description, .opr-description p, .opr-description, .opr-description span
+{
+	line-height:1.5em !important;
+}
+.opr-description ul, .opr-description ol
+{
+	padding-left:25px !important;
+}
+.opr-description ul li
+{
+	list-style-type:disc;
+}
+.opr-item-title
+{
+	font-weight:bold;
+	background-color:transparent !important;
+}
+.opr-section-item
+{
+	margin-bottom:20px;
+}
+.opr-date 
+{
+    width:25%;
+}
+.opr-date-right
+{
+    width:25%;
+    text-align:right;
+}
+.opr-cooperate,
+.opr-school-name
+{
+    width:50%;
+}
+.opr-location
+{
+    width:25%;
+    text-align:right;
+}
+.opr-certification-name
+{
+    width:50%;
+}
+.opr-certification-company
+{
+    width:30%;
+    text-align:left;
+}
+.opr-certification-date
+{
+    width: 20%;
+    text-align:right;
+}
+li.page-break
+{
+    list-style:none !important;
+    display:none;
+}
+li.spacer
+{
+    list-style:none !important;
+}
+.opr-reference
+{
+    margin-bottom:5px !important;
+}

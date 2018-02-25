@@ -1,0 +1,39 @@
+﻿.PrintContent { min-height:450px; }
+#contact_form .tbx { margin-right:11px !important; }
+.not-valid { border-color:Red !important; }
+li.selected { font-weight: bold; }
+
+.clearfix
+{
+    zoom: 1;
+}
+.clearfix:before, .clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+}
+
+form.protected h3
+{
+    font-size:1.3em;
+    margin-bottom:20px;
+    padding-left:0px !important;
+}
+form.protected label
+{
+    display:block !important;
+    line-height:20px !important;
+    height: 20px !important;
+    padding-bottom:5px;    
+}
+form.protected span
+{
+    padding-left:10px;
+    color:Red;
+}
