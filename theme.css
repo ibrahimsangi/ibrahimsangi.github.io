@@ -1,10 +1,11 @@
 ﻿*{margin: 0; padding: 0;}
 body{
-	background: #fff url('Img/bg.jpg') no-repeat center top;
+	background: #F1F1F1 url('Img/bg.jpg') no-repeat center
+top;
 	font-family: "Georgia", "Lucida Grande";
 	font-size: 13px;
 	color: #676767;
-	line-height:150%;
+	line-height: 150%;
 }
 .inv{display: block; visibility: hidden;}
 p{padding: 5px 0;}
