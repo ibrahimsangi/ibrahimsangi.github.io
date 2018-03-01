@@ -135,8 +135,6 @@ img{
 	padding: 15px 0 0 15px;
 	white-space: nowrap;
     overflow: hidden;
-    text-overflow:ellipsis;
-    -o-text-overflow:ellipsis;
     display: block;
 }
 
@@ -146,8 +144,16 @@ img{
     color: #a1d409;
     }
 
-#header h1 a{text-decoration: none; color: #fff;}
-#header h1 a:hover{text-decoration: none; color: #a1d409;}
+#header h1 a
+{
+	text-decoration: none; 
+	color: #fff;
+	}
+#header h1 a:hover
+{
+	text-decoration: none; 
+	color: #a1d409;
+	}
 
 #header h2{
 	font: 15px Georgia, Verdana, Arial;
