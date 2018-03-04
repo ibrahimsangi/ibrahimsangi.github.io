@@ -24,6 +24,9 @@ a:hover{color: #0989ae;}
 }
 
 img{
+	width: 100%;
+	height: auto;
+
 	border: 0px;
 }
 
